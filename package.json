@@ -84,7 +84,7 @@
     "@types/wait-on": "^5.3.4",
     "@types/which": "^3.0.4",
     "all-contributors-cli": "^6.26.1",
-    "cypress": "^9.6.0",
+    "cypress": "^13.13.2",
     "husky": "^4.3.8",
     "lint-staged": "^12.4.1",
     "memfs": "^4.9.3",
